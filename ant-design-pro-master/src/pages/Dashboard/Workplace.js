@@ -125,7 +125,7 @@ class Workplace extends PureComponent {
           </div>
           <div className={styles.content}>
             <div className={styles.contentTitle}>
-              早安，
+              早上好，
               {currentUser.name}
               ，祝你开心每一天！
             </div>
